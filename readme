@@ -1,0 +1,24 @@
+# Click then Type
+
+**Author:** Jeremiah E. Ochepo
+**Last Edited:** 2/15/2020 (7 PM)
+**Description:** Click then Type is a simple program that allows users to click on a graphics window and type characters at the clicked points.
+
+## Instructions
+
+1. Run the program.
+2. A graphics window titled "Click on a diagonal point" will appear.
+3. Click on the window five times, and each time you click, type a character on your keyboard.
+4. The program will display the typed character at the corresponding click point.
+5. Close the window when you are done.
+
+## Requirements
+
+- The program utilizes the `graphics` module, so ensure that it is installed or available in your Python environment.
+
+## How to Run
+
+Execute the script, and the graphics window will open, ready for interaction.
+
+Enjoy clicking and typing!
+
